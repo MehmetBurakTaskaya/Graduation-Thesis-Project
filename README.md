@@ -1,6 +1,6 @@
 # Upstream sequence analysis of bacterial housekeeping genes
 
-Analysis code for my B.Sc. graduation project in Molecular Biology and Genetics at Acıbadem University (2023), supervised by Dr. Erkan Mozioğlu.
+Analysis code for my B.Sc. graduation project in Molecular Biology and Genetics at Acıbadem University (2023), supervised by Assoc. Prof. Erkan Mozioğlu.
 
 **Thesis title:** *Decoding Sequence Patterns and Conserved Motifs in Housekeeping Gene Upstream Regions: Unveiling Deeper Implications in Escherichia coli*
 
@@ -45,4 +45,4 @@ This graduation thesis project explores sequence patterns and conserved motifs i
 
 ## Author
 
-Mehmet Burak Taşkaya · [ORCID 0009-0002-0178-5199](https://orcid.org/0009-0002-0178-5199)
+Mehmet Burak Taşkaya · [mehmetburaktaskaya.com](https://mehmetburaktaskaya.com) · [ORCID 0009-0002-0178-5199](https://orcid.org/0009-0002-0178-5199)
